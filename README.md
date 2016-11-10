@@ -1,6 +1,11 @@
 # awesome-server
 
+### NTP server
 
+```
+# http://ntp.org.cn/
+cn.ntp.org.cn
+```
 
 ### 相关资源
 
