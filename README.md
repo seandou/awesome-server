@@ -15,6 +15,7 @@
 
 ## NTP服务
 
+- [pool.ntp.org](http://www.pool.ntp.org/zh/use.html)
 - [阿里公共NTP服务器](https://help.aliyun.com/knowledge_detail/40583.html#内网和公共NTP服务器)
 
 ## Docker 镜像
